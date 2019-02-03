@@ -10,7 +10,7 @@ body {
 body #bg {
   -webkit-clip-path: polygon(100% 0, 100% 79%, 39% 100%, 0 100%, 0 0);
           clip-path: polygon(100% 0, 100% 79%, 39% 100%, 0 100%, 0 0);
-  background-color: #A22C29;
+  background-color: #317B22;
   width: 100%;
   height: 100%;
   position: absolute;
@@ -79,9 +79,10 @@ main section#card ul li span {
   position: absolute;
   width: 30px;
   height: 30px;
-  background-color: #eaaead;
+  background-color: #99df8a;
   border-radius: 50%;
   margin-right: 10px;
+  margin-top: 3px;
 }
 
 main section#card ul li strong {
@@ -128,10 +129,10 @@ main section#primary a {
   text-decoration: none;
   text-transform: uppercase;
   font-weight: bold;
-  background-color: #F2CD5D;
+  background-color: #EDE580;
   display: block;
   text-align: center;
-  margin: 50px auto 0 auto;
+  margin: 40px auto 0 auto;
   padding: 15px;
 }
 
